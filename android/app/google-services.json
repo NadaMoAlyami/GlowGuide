@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "486415768238",
+    "project_id": "glowguide-658c1",
+    "storage_bucket": "glowguide-658c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486415768238:android:7adaf8b0d9c773f6d42b3f",
+        "android_client_info": {
+          "package_name": "com.example.glowguide"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZijwHkG95OuJYpyhjsD4KwFbxzfJ8k4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
